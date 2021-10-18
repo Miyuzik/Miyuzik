@@ -1,8 +1,8 @@
 ---
 title: Miyuzik
 date: '18th October, 2021'
-twitter: https://twitter.com/miyuzikvr/
-twitch: https://twitch.com/miyuzik/
+twitter: https://twitter.com/miyuzikvr
+twitch: https://twitch.com/miyuzik
 githubUsername: 'Miyuzik'
 ---
 
