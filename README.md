@@ -1,16 +1,24 @@
-### Hi there 👋
+---
+title: Miyuzik
+date: '18th October, 2021'
+twitter: <a href="https://twitter.com/miyuzikvr/">Miyuzik on Twitter</a>
+twitch: <a href="https://twitch.com/miyuzik/">Miyuzik on Twitch</a>
+githubUsername: 'Miyuzik'
+---
 
-<!--
-**Miyuzik/Miyuzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Miyuzik and this is my github page where I do a bunch of stuff in private repos 👋
+---
 
-Here are some ideas to get you started:
+#### I'm a virtual cotton candy fox, based in the world wide web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 Just a small streamer trying to make the world a better place **<a href="https://twitch.com/miyuzik/">Miyuzik on Twitch</a>**
+- 🌱 Learning more about and studying: **Machine Learning, Python Scripting, Infosec, Beat making**
+- 📫 Reach me asap: <a href="https://twitter.com/millycodes/">Twitter</a> or Millycodes@gmail.com
+- 💜 Interests: Foxes, Finance, Infosec, Streaming, Making Beats
+
+#### Find me around the web 🌎:
+- 🐦 Having fun on twitter <a href="https://twitter.com/miyuzikvr/">Miyuzik on Twitter</a>
+- 🎧 Streaming on twitch <a href="https://twitch.com/miyuzik/">Miyuzik on Twitch</a>
+
+---
+
